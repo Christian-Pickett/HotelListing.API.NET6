@@ -13,16 +13,6 @@ namespace HotelListing.API.Data
         public DbSet<Hotel> Hotels { get; set; }
         public DbSet<Country> Countries { get; set; }
 
-        //public class YOURBATABASEContextFactory : IDesignTimeDbContextFactory<HotelListingDbContext>
-        //{
-        //    public HotelListingDbContext CreateDbContext(string[] args)
-        //    {
-        //        var optionsBuilder = new DbContextOptionsBuilder<HotelListingDbContext>();
-        //        optionsBuilder.UseSqlServer(@"Server=(localdb)\\mssqllocaldb;Database=HotelListingAPIDb;Trusted_Connection=True;MultipleActiveResultSets=True");
-        //        return new HotelListingDbContext(optionsBuilder.Options);
-        //    }
-        //}
-
             protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
