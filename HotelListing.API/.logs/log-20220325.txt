@@ -8,3 +8,13 @@
 2022-03-25 13:10:30.509 -07:00 [INF] Application started. Press Ctrl+C to shut down.
 2022-03-25 13:10:30.516 -07:00 [INF] Hosting environment: Development
 2022-03-25 13:10:30.518 -07:00 [INF] Content root path: C:\Users\cpickett\source\repos\HotelListing\HotelListing.API\
+2022-03-25 13:16:12.039 -07:00 [INF] Now listening on: https://localhost:7056
+2022-03-25 13:16:12.074 -07:00 [INF] Now listening on: http://localhost:5056
+2022-03-25 13:16:12.082 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-25 13:16:12.084 -07:00 [INF] Hosting environment: Development
+2022-03-25 13:16:12.085 -07:00 [INF] Content root path: C:\Users\cpickett\source\repos\HotelListing\HotelListing.API\
+2022-03-25 13:31:32.684 -07:00 [INF] Now listening on: https://localhost:7056
+2022-03-25 13:31:32.733 -07:00 [INF] Now listening on: http://localhost:5056
+2022-03-25 13:31:32.738 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-25 13:31:32.739 -07:00 [INF] Hosting environment: Development
+2022-03-25 13:31:32.741 -07:00 [INF] Content root path: C:\Users\cpickett\source\repos\HotelListing\HotelListing.API\
